@@ -8,3 +8,8 @@
 • Coffee shop website offered a variety of drinks and events for customers to enjoy.
 
 ![image](https://github.com/user-attachments/assets/58ba0730-79f1-41b4-b70b-bd82636fd336)
+
+
+[Full Report](https://github.com/carlosprosas99/TasteWorldCafe.net/blob/main/Section2_Team4_TasteWorldCaf%C3%A9.pdf)
+
+[Website Illustration & MySQL Video](https://drive.google.com/file/d/1FYDG1Vp1ZBolKe94IDkwZisrD7gIK3Gh/view?usp=sharing)
